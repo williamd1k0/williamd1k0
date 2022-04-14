@@ -37,3 +37,7 @@ I also try to make some art 🎨
 - **Icons:** Papirus-Dark-Maia [GTK2], Adwaita [GTK3]
 - **Terminal:** xfce4-terminal
 - **Terminal Font:** Fira Code 9
+
+### Currently Reading
+
+<!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
