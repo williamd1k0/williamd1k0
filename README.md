@@ -28,8 +28,8 @@ I also try to make some art 🎨
 - **GPU:** Intel UHD Graphics 620
 - **Memory:** 7837MiB
 - **OS:** Manjaro Linux x86_64
-- **Kernel:** 5.11.14-1-MANJARO
-- **Shell:** fish 3.2.1
+- **Kernel:** 5.17.1-3-MANJARO
+- **Shell:** fish 3.4.1
 - **DE:** Xfce 4.16
 - **WM:** Xfwm4
 - **WM Theme:** Arctodont
