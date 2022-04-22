@@ -42,6 +42,5 @@ I also try to make some art 🎨
 
 <!-- GOODREADS-LIST:START -->
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
-- [Komi não consegue se comunicar, Vol. 1](https://www.goodreads.com/review/show/4651352922?utm_medium=api&utm_source=rss) by Tomohito Oda (⭐️4)
 - [A Árvore Bela: Uma jornada pessoal através de como os povos mais pobres do mundo estão educando a si mesmos](https://www.goodreads.com/review/show/4646824149?utm_medium=api&utm_source=rss) by James Tooley (⭐️4)
 <!-- GOODREADS-LIST:END -->
