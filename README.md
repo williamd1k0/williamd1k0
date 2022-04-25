@@ -42,5 +42,6 @@ I also try to make some art 🎨
 
 <!-- GOODREADS-LIST:START -->
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
+- [Spy×Family, Vol. 8 (SpyxFamily, #8)](https://www.goodreads.com/review/show/4683629360?utm_medium=api&utm_source=rss) by Tatsuya Endo (⭐️4.38)
 - [A Árvore Bela: Uma jornada pessoal através de como os povos mais pobres do mundo estão educando a si mesmos](https://www.goodreads.com/review/show/4646824149?utm_medium=api&utm_source=rss) by James Tooley (⭐️4)
 <!-- GOODREADS-LIST:END -->
