@@ -43,4 +43,5 @@ I also try to make some art 🎨
 <!-- GOODREADS-LIST:START -->
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 - [Rooster Fighter, Vol. 2](https://www.goodreads.com/review/show/4651344252?utm_medium=api&utm_source=rss) by Syu Sakuratani (⭐️4.33)
+- [A revolução dos bichos (Clássicos da literatura mundial)](https://www.goodreads.com/review/show/4726629898?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
