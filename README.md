@@ -43,5 +43,4 @@ I also try to make some art 🎨
 <!-- GOODREADS-LIST:START -->
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 - [Jujutsu Kaisen: Batalha De Feiticeiros Vol. 2](https://www.goodreads.com/review/show/4621596156?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.36)
-- [A revolução dos bichos (Clássicos da literatura mundial)](https://www.goodreads.com/review/show/4726629898?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
