@@ -41,6 +41,5 @@ I also try to make some art 🎨
 ### Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Jujutsu Kaisen: Batalha De Feiticeiros Vol. 2](https://www.goodreads.com/review/show/4621596156?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.36)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
