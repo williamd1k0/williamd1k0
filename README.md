@@ -42,6 +42,6 @@ I also try to make some art 🎨
 
 <!-- GOODREADS-LIST:START -->
 - [Jujutsu Kaisen, Vol. 4](https://www.goodreads.com/review/show/4806160270?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.56)
-- [1984 (Clássicos da literatura mundial)](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.34)
+- [1984 (Clássicos da literatura mundial)](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.36)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
