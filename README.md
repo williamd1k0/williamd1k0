@@ -41,7 +41,7 @@ I also try to make some art 🎨
 ### Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.47)
 - [Komi Can't Communicate, Vol. 8](https://www.goodreads.com/review/show/5112426346?utm_medium=api&utm_source=rss) by Tomohito Oda (⭐️4.41)
-- [1984 (Clássicos da literatura mundial)](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.36)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
