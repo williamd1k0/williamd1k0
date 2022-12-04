@@ -43,6 +43,5 @@ I also try to make some art 🎨
 <!-- GOODREADS-LIST:START -->
 - [Confissões](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.13)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.47)
-- [Komi Can't Communicate, Vol. 8](https://www.goodreads.com/review/show/5112426346?utm_medium=api&utm_source=rss) by Tomohito Oda (⭐️4.41)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
