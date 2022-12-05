@@ -41,6 +41,7 @@ I also try to make some art 🎨
 ### Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Rooster Fighter, Vol. 3](https://www.goodreads.com/review/show/5063624510?utm_medium=api&utm_source=rss) by Shu Sakuratani (⭐️2)
 - [Confissões](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.13)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.47)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
