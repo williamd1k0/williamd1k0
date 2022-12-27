@@ -41,6 +41,7 @@ I also try to make some art 🎨
 ### Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Jujutsu Kaisen, Vol. 7](https://www.goodreads.com/review/show/4907940768?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.77)
 - [Confissões](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.12)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.47)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
