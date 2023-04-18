@@ -43,7 +43,7 @@ I also try to make some art 🎨
 <!-- GOODREADS-LIST:START -->
 - [SPY×FAMILY 10](https://www.goodreads.com/review/show/5449113657?utm_medium=api&utm_source=rss) by Tatsuya Endo (⭐️4.57)
 - [Komi não consegue se comunicar, Vol. 13](https://www.goodreads.com/review/show/5490379578?utm_medium=api&utm_source=rss) by Tomohito Oda (⭐️)
-- [Confissões](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.13)
+- [Confissões](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.09)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.46)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
