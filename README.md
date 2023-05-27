@@ -42,6 +42,6 @@ I also try to make some art 🎨
 
 <!-- GOODREADS-LIST:START -->
 - [Confissões (Portuguese Edition)](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.07)
-- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.46)
+- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.45)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
