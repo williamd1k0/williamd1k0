@@ -41,6 +41,7 @@ I also try to make some art 🎨
 ### Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [古見さんは、コミュ症です。volume 14 [Komi-san wa Komyushou Desu. 14] (Komi Can't Communicate, #14)](https://www.goodreads.com/review/show/5580964093?utm_medium=api&utm_source=rss) by Tomohito Oda (⭐️4.3)
 - [Confissões (Portuguese Edition)](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.07)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.45)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.33)
