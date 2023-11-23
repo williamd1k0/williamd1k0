@@ -42,7 +42,7 @@ I also try to make some art 🎨
 
 <!-- GOODREADS-LIST:START -->
 - [Rooster Fighter - O Galo Lutador, Vol. 4](https://www.goodreads.com/review/show/5949496198?utm_medium=api&utm_source=rss) by Shu Sakuratani (⭐️3.5)
-- [Confissões (Portuguese Edition)](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.12)
+- [Confissões (Portuguese Edition)](https://www.goodreads.com/review/show/5132752813?utm_medium=api&utm_source=rss) by Kanae Minato (⭐️3.14)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.46)
 - [Defendendo o Indefensável](https://www.goodreads.com/review/show/4549732905?utm_medium=api&utm_source=rss) by Walter Block (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
