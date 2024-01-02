@@ -42,5 +42,5 @@ I also try to make some art 🎨
 
 <!-- GOODREADS-LIST:START -->
 - [Antifrágil: Coisas que se beneficiam com o caos](https://www.goodreads.com/review/show/5532143672?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.1)
-- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.46)
+- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.45)
 <!-- GOODREADS-LIST:END -->
