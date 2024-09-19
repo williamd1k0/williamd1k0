@@ -44,5 +44,5 @@ I also try to make some art 🎨
 - [Lovely Complex, Vol. 16](https://www.goodreads.com/review/show/6707508342?utm_medium=api&utm_source=rss) by Aya Nakahara (⭐️)
 - [Lovely Complex Vol. 08](https://www.goodreads.com/review/show/6418582353?utm_medium=api&utm_source=rss) by Aya Nakahara (⭐️4.5)
 - [Antifrágil: Coisas que se beneficiam com o caos](https://www.goodreads.com/review/show/5532143672?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.03)
-- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.45)
+- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.44)
 <!-- GOODREADS-LIST:END -->
