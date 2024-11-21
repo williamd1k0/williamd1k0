@@ -41,6 +41,7 @@ I also try to make some art 🎨
 ### Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Boa Noite Punpun, Volume 1 (Boa Noite Punpun, #1)](https://www.goodreads.com/review/show/7021117047?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.24)
 - [Antifrágil: Coisas que se beneficiam com o caos](https://www.goodreads.com/review/show/5532143672?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.03)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.44)
 <!-- GOODREADS-LIST:END -->
