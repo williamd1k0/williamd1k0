@@ -42,6 +42,6 @@ I also try to make some art 🎨
 
 <!-- GOODREADS-LIST:START -->
 - [Boa Noite Punpun, Volume 2 (Boa Noite Punpun, #2)](https://www.goodreads.com/review/show/7070822398?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.34)
-- [Antifrágil: Coisas que se beneficiam com o caos](https://www.goodreads.com/review/show/5532143672?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.03)
+- [Antifrágil: Coisas que se beneficiam com o caos](https://www.goodreads.com/review/show/5532143672?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.06)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.44)
 <!-- GOODREADS-LIST:END -->
