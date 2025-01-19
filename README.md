@@ -43,5 +43,5 @@ I also try to make some art 🎨
 <!-- GOODREADS-LIST:START -->
 - [Boa Noite Punpun, Volume 4 (Boa Noite Punpun, #4)](https://www.goodreads.com/review/show/7160442849?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.28)
 - [Antifrágil: Coisas que se beneficiam com o caos](https://www.goodreads.com/review/show/5532143672?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.06)
-- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.44)
+- [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.43)
 <!-- GOODREADS-LIST:END -->
