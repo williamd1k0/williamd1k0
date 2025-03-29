@@ -41,7 +41,6 @@ I also try to make some art 🎨
 ### Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Card Captor Sakura 3 - Edição Especial](https://www.goodreads.com/review/show/7400730685?utm_medium=api&utm_source=rss) by Clamp (⭐️4.57)
 - [Antifrágil: Coisas que se beneficiam com o caos](https://www.goodreads.com/review/show/5532143672?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.06)
 - [1984](https://www.goodreads.com/review/show/4770047411?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.43)
 <!-- GOODREADS-LIST:END -->
